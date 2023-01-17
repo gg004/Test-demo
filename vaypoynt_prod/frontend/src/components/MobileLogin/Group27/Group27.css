@@ -1,0 +1,47 @@
+.group-27 {
+  align-items: center;
+  display: flex;
+  gap: 16px;
+  height: 255px;
+  min-width: 399px;
+  position: absolute;
+}
+
+.ellipse-6 {
+  border: 20px solid;
+  border-color: var(--white-32);
+  border-radius: 64px;
+  height: 128px;
+  margin-bottom: 53.0px;
+  width: 128px;
+}
+
+.ellipse-container-1 {
+  border-radius: 127.5px;
+  height: 255px;
+  position: relative;
+  width: 255px;
+}
+
+.ellipse-4-1 {
+  border: 20px solid;
+  border-color: var(--white-42);
+  border-radius: 94px;
+  height: 188px;
+  left: 39px;
+  position: absolute;
+  top: 30px;
+  width: 188px;
+}
+
+.ellipse-5-1 {
+  border: 20px solid;
+  border-color: var(--white-42);
+  border-radius: 127.5px;
+  height: 255px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 255px;
+}
+

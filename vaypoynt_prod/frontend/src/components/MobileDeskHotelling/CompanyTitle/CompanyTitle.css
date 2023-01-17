@@ -1,0 +1,19 @@
+.company-title {
+  display: flex;
+  height: 27px;
+  /* left: 104px; */
+  /* position: absolute; */
+  /* top: 201px; */
+  width: 170px;
+}
+
+.title {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-bottom: -2px;
+  margin-right: -2px;
+  white-space: nowrap;
+  width: 170px;
+}
+

@@ -1,0 +1,27 @@
+.user-7 {
+  display: flex;
+  flex-direction: column;
+  height: 22px;
+  justify-content: space-between;
+  margin-bottom: 0;
+  width: 16px;
+}
+
+.ellipse-1 {
+  background-color: var(--gull-gray);
+  border-radius: 4.5px;
+  flex: 1;
+  height: 9px;
+  margin-left: 4px;
+  margin-right: 3.2px;
+  max-height: 9px;
+}
+
+.path-3 {
+  flex: 1;
+  height: 10.83px;
+  margin-bottom: 0;
+  max-height: 10.83px;
+  object-fit: cover;
+}
+

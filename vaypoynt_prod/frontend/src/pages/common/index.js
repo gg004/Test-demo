@@ -1,0 +1,8 @@
+export { default as EmployeePage } from './EmployeePage'
+export { default as DepartmentPage } from './DepartmentPage'
+export { default as EmployeeProfilePage } from './EmployeeProfilePage'
+export { default as DeskHottelling } from './DeskHottelling'
+export { default as SettingPage } from './SettingPage'
+export { default as StatusChartPage } from './StatusChartPage'
+export { default as EmployeeStatusChartPage } from './EmployeeStatusChartPage'
+export { default as RecoveryEmail } from './RecoveryEmail'

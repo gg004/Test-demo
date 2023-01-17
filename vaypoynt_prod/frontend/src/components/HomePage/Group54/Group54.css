@@ -1,0 +1,23 @@
+.group-54 {
+  align-items: flex-end;
+  background-color: var(--aqua-haze);
+  border: 2px solid;
+  border-color: var(--caribbean-green-pearl);
+  border-radius: 9px;
+  display: flex;
+  height: 56px;
+  left: 0;
+  min-width: 335px;
+  padding: 12.5px 14px;
+  position: absolute;
+  top: 0;
+}
+
+.work-from-home {
+  letter-spacing: 0;
+  line-height: 16px;
+  min-height: 25px;
+  min-width: 143px;
+  white-space: nowrap;
+}
+

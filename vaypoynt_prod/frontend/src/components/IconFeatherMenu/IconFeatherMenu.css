@@ -1,0 +1,21 @@
+.icon-feather-menu {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  justify-content: center;
+  left: 29px;
+  min-height: 18px;
+  position: absolute;
+  top: 202px;
+  width: 27px;
+}
+
+.path-2 {
+  height: 3px;
+  margin-left: -1.5px;
+  object-fit: cover;
+  width: 30px;
+}
+

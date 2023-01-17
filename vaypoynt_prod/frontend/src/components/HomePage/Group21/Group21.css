@@ -1,0 +1,40 @@
+.group-21 {
+  align-items: center;
+  display: flex;
+  height: 16px;
+  left: 31px;
+  min-width: 315px;
+  position: absolute;
+  top: 155px;
+}
+
+.time {
+  align-self: flex-end;
+  height: 18px;
+  letter-spacing: 0;
+  line-height: 14px;
+  margin-bottom: -2px;
+  text-align: center;
+  width: 56px;
+}
+
+.span0 {
+  letter-spacing: -0.28px;
+}
+
+.cellular-connection {
+  height: 11px;
+  margin-bottom: 1.33px;
+  margin-left: 193px;
+  object-fit: cover;
+  width: 17px;
+}
+
+.wifi {
+  height: 11px;
+  margin-bottom: 1.03px;
+  margin-left: 5px;
+  object-fit: cover;
+  width: 15px;
+}
+

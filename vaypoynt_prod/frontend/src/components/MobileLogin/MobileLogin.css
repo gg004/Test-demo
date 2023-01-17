@@ -1,0 +1,381 @@
+.x2-0-login {
+  align-items: flex-start;
+  background-color: var(--blueberry);
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  overflow: hidden;
+}
+
+.overlap-group7 {
+  height: 235px;
+  position: relative;
+}
+
+
+/* .overlap-group5 {
+  height: 319px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 564px;
+} */
+
+.pic-1 {
+  border-radius: 17.5px;
+  height: 65px;
+  object-fit: cover;
+  position: absolute;
+  width: 65px;
+}
+.pic-2 {
+  border-radius: 21px;
+  height: 72px;
+  object-fit: cover;
+  position: absolute;
+  width: 72px;
+}
+
+.pic-3 {
+  border-radius: 17px;
+  height: 64px;
+  object-fit: cover;
+  position: absolute;
+  width: 64px;
+}
+.pic-4 {
+  border-radius: 8.5px;
+  height: 47px;
+  object-fit: cover;
+  position: absolute;
+  width: 47px;
+}
+
+.pic-5 {
+  border-radius: 16px;
+  height: 62px;
+  object-fit: cover;
+  position: absolute;
+  width: 62px;
+}
+
+.rectangle-106 {
+  background-color: var(--white);
+  border-color: var(--dove-gray);
+}
+
+.apple-touch-icon {
+  object-fit: cover;
+}
+
+.ellipse-container {
+  height: 158px;
+  position: absolute;
+  width: 161px;
+}
+
+.ellipse-4 {
+  border: 20px solid;
+  border-color: var(--white-5);
+  border-radius: 57.5px/58px;
+  height: 116px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 115px;
+}
+
+.ellipse-5 {
+  border: 20px solid;
+  border-color: var(--white-32);
+  border-radius: 78.5px;
+  height: 157px;
+  left: 4px;
+  position: absolute;
+  top: 1px;
+  width: 157px;
+}
+
+.group-21 {
+  align-items: center;
+  display: flex;
+  height: 16px;
+  left: 88px;
+  min-width: 315px;
+  position: absolute;
+  top: 155px;
+}
+
+.time {
+  align-self: flex-end;
+  height: 18px;
+  letter-spacing: 0;
+  line-height: 14px;
+  margin-bottom: -2px;
+  text-align: center;
+  width: 56px;
+}
+
+.span0 {
+  letter-spacing: -0.28px;
+}
+
+.cellular-connection {
+  height: 11px;
+  margin-bottom: 1.33px;
+  margin-left: 193px;
+  object-fit: cover;
+  width: 17px;
+}
+
+.wifi {
+  height: 11px;
+  margin-bottom: 1.03px;
+  margin-left: 5px;
+  object-fit: cover;
+  width: 15px;
+}
+
+.overlap-group4 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 30px 30px 0px 0px;
+  box-shadow: 0px -7px 8px #0000001c;
+  display: flex;
+  flex-direction: column;
+  min-height: 610px;
+  padding: 12px 19px;
+  /* width: 375px; */
+}
+
+.welcome-title {
+  align-self: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 58px;
+  justify-content: space-between;
+  margin-left: 1px;
+  margin-top: 19px;
+  width: 253px;
+}
+
+.welcome-to-vaypoynt {
+  color: var(--martinique);
+  flex: 1;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  height: 33px;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-right: -2px;
+  margin-top: 4.5px;
+  max-height: 33px;
+  white-space: nowrap;
+}
+
+.please-login-your-account {
+  color: var(--regent-gray);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  height: 25px;
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-bottom: -5.5px;
+  white-space: nowrap;
+  width: 208px;
+}
+
+.overlap-group6 {
+  align-self: center;
+  height: 214px;
+  margin-top: 24px;
+  position: relative;
+  width: 336px;
+}
+
+.input-username-password {
+  display: flex;
+  flex-direction: column;
+  height: 214px;
+  justify-content: space-between;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 336px;
+}
+
+.password {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  height: 113px;
+  justify-content: space-between;
+  max-height: 113px;
+  position: relative;
+}
+
+.forgot-password {
+  color: var(--blueberry);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-s);
+  font-weight: 500;
+  height: 22px;
+  letter-spacing: 0;
+  line-height: 14px;
+  margin-bottom: -5px;
+  margin-right: -2px;
+  white-space: nowrap;
+  width: 126px;
+}
+
+.line-44 {
+  height: 2px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 20px;
+  width: 82px;
+}
+
+.log-in-button {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-top: 38px;
+  min-width: 335px;
+}
+
+.group-container {
+  border-radius: 15px;
+  height: 56px;
+  position: relative;
+  width: 335px;
+}
+
+.group-3 {
+  align-items: flex-end;
+  background-color: var(--blueberry);
+  border-radius: 15px;
+  box-shadow: 0px 5px 6px #4c6fff45;
+  display: flex;
+  height: 56px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 335px;
+  position: absolute;
+  top: 0;
+}
+
+.log-in {
+  letter-spacing: 0;
+  line-height: 16px;
+  min-height: 25px;
+  min-width: 49px;
+  white-space: nowrap;
+}
+
+.path-container {
+  height: 20px;
+  left: 295px;
+  position: absolute;
+  top: 18px;
+  width: 20px;
+}
+
+.path-1 {
+  height: 9px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 5px;
+}
+
+.path-2 {
+  height: 20px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 20px;
+}
+
+.or-login-with-title {
+  align-items: center;
+  display: flex;
+  height: 19px;
+  margin-top: 36px;
+  min-width: 332px;
+}
+
+.line-2 {
+  height: 1px;
+  object-fit: cover;
+  width: 107px;
+}
+
+.or-login-with {
+  align-self: flex-end;
+  color: var(--regent-gray);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 13px;
+  margin-bottom: -5px;
+  margin-left: 18px;
+  min-height: 21px;
+  min-width: 83px;
+  white-space: nowrap;
+}
+
+.line-1 {
+  height: 1px;
+  margin-left: 16px;
+  object-fit: cover;
+  width: 107px;
+}
+
+.icon-awesome-linkedin-in {
+  height: 31px;
+  margin-right: 0;
+  margin-top: 38px;
+  object-fit: cover;
+  width: 32px;
+}
+
+.group-12 {
+  cursor: pointer;
+  display: flex;
+  height: 17px;
+  justify-content: space-between;
+  margin-left: 2.0px;
+  margin-top: 36px;
+  width: 199px;
+}
+
+.dont-have-an-account {
+  letter-spacing: 0;
+  line-height: 12px;
+  margin-bottom: -4.5px;
+  margin-top: 2.5px;
+  white-space: nowrap;
+  width: 145px;
+}
+
+.sign-up {
+  letter-spacing: 0;
+  line-height: 12px;
+  margin-bottom: -4.5px;
+  margin-right: -2px;
+  margin-top: 2.5px;
+  white-space: nowrap;
+  width: 48px;
+}
+
+.form-border {
+  border: 2px solid blue;
+}

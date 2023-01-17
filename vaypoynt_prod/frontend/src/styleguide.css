@@ -1,0 +1,106 @@
+:root { 
+  --aluminium: #a6b0bb;
+  --aqua-haze: #edf2f7;
+  --blueberry: #4c6fff;
+  --dove-gray: #707070;
+  --gull-gray: #9fabb7;
+  --martinique: #31314f;
+  --regent-gray: #8c949b;
+  --white: #ffffff;
+  --caribbean-green-pearl: #5ae098;
+  --white-32: #ffffff12;
+  --white-42: #ffffff1c;
+  --white-5: #ffffff08;
+  --white-2: #ffffff17;
+  --white-3: #ffffff12;
+ 
+  --font-size-m: 16px;
+  --font-size-s: 14px;
+  --font-size-xl: 22px;
+  --font-size-xs: 13px;
+  --font-size-xxs: 12px;
+  --font-size-xxl: 27px;
+ 
+  --font-family-poppins: "Poppins", Helvetica;
+  --font-family-sf_pro_text: "SF Pro Text", Helvetica;
+  --font-family-sfpro_text-semibold: "SFPro Text-Semibold", Helvetica;
+  --aluminium: #a6b0bb;
+  --aqua-haze: #edf2f7;
+  --blueberry: #4c6fff;
+  --white: #ffffff;
+  --white-2: #ffffff17;
+  --white-3: #ffffff12;
+ 
+  --font-family-prometotrial-medium: "PrometoTrial-Medium", Helvetica;
+}
+
+.prometotrial-medium-white-27px {
+  color: var(--white);
+  font-family: var(--font-family-prometotrial-medium);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 500;
+}
+.sfprotext-semi-bold-white-14px {
+  color: var(--white);
+  font-family: var(--font-family-sfpro_text-semibold);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 600;
+}
+.sfprotext-semi-bold-white-14px-2 {
+  color: var(--white);
+  font-family: var(--font-family-sf_pro_text);
+  font-size: var(--font-size-s);
+}
+
+.poppins-semi-bold-martinique-16px {
+  color: var(--martinique);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.poppins-normal-aluminium-16px {
+  color: var(--aluminium);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.poppins-semi-bold-white-16px {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.poppins-medium-martinique-12px {
+  color: var(--martinique);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.poppins-semi-bold-blueberry-12px {
+  color: var(--blueberry);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 600;
+}
+
+/*  */
+
+.poppins-normal-martinique-16px {
+  color: var(--martinique);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+

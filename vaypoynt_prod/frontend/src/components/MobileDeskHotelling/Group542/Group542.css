@@ -1,0 +1,24 @@
+.pick-floor-group {
+  align-items: flex-end;
+  background-color: var(--aqua-haze);
+  border-radius: 9px;
+  display: flex;
+  height: 56px;
+  margin-right: 16.0px;
+  margin-top: 26px;
+  min-width: 100%;
+  max-width: 100%;
+  width: 100%;
+  padding: 10.5px 16px;
+}
+
+.pick-floor {
+  letter-spacing: 0;
+  line-height: 16px;
+  min-height: 25px;
+  min-width: 100%;
+  max-width: 100%;
+  width: 100%;
+  white-space: nowrap;
+}
+

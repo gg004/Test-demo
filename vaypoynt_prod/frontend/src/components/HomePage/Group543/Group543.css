@@ -1,0 +1,23 @@
+.group-5-1 {
+  align-items: flex-end;
+  background-color: var(--aqua-haze);
+  border-radius: 9px;
+  display: flex;
+  height: 56px;
+  margin-top: 24px;
+  min-width: 335px;
+  padding: 8.5px 16px;
+}
+
+.sick-day {
+  letter-spacing: 0;
+  line-height: 16px;
+  min-height: 25px;
+  min-width: 73px;
+  white-space: nowrap;
+}
+
+.group-5-1.group-5 .sick-day {
+  min-width: 66px;
+}
+

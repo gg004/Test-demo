@@ -1,0 +1,39 @@
+.group-5-2 {
+  align-items: flex-end;
+  border-radius: 9px;
+  height: 56px;
+  margin-top: 60px;
+  display: flex;
+  margin-top: 24px;
+  min-width: 335px;
+  width: 335px;
+  padding: 8.5px 16px;
+  position: absolute;
+  margin: auto;
+  bottom: 50px;
+  right: 0;
+  left: 0;
+}
+
+.group-3 {
+  align-items: flex-end;
+  /* background-color: var(--aqua-haze); */
+  background-color: var(--blueberry);
+  border-radius: 15px;
+  box-shadow: 0px 5px 6px #4c6fff45;
+  display: flex;
+  flex: 1;  
+  justify-content: flex-end;
+  min-width: 335px;
+  padding: 10.5px 107px;
+}
+
+.update-status {
+  letter-spacing: 0;
+  line-height: 16px;
+  min-height: 25px;
+  min-width: 118px;
+  text-align: center;
+  white-space: nowrap;
+}
+

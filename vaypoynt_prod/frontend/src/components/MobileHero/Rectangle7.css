@@ -1,0 +1,6 @@
+.MobileHero {
+  background-color: var(--blueberry);
+  box-shadow: 0px -7px 8px #0000000f;
+  height: 147px;
+  width: 100%;
+}

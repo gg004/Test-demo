@@ -1,0 +1,11 @@
+.rectangle-7 {
+  background-color: var(--blueberry);
+  border-radius: 0px 0px 40px 0px;
+  box-shadow: 0px -7px 8px #0000000f;
+  height: 147px;
+  left: 0;
+  position: absolute;
+  top: 141px;
+  width: 100%;
+}
+

@@ -1,0 +1,34 @@
+.battery {
+  align-items: center;
+  display: flex;
+  gap: 1px;
+  margin-bottom: 0.67px;
+  margin-left: 5px;
+  min-width: 24px;
+}
+
+.overlap-group {
+  align-items: flex-start;
+  border: 1px solid;
+  border-color: var(--white);
+  border-radius: 2.67px;
+  display: flex;
+  height: 11px;
+  min-width: 22px;
+  padding: 1.0px 1px;
+}
+
+.capacity {
+  background-color: var(--white);
+  border-radius: 1.33px;
+  height: 7px;
+  width: 18px;
+}
+
+.cap {
+  height: 4px;
+  margin-top: 0;
+  object-fit: cover;
+  width: 1px;
+}
+

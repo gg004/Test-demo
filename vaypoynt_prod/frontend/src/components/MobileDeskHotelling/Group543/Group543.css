@@ -1,0 +1,20 @@
+.group-54-1 {
+  align-items: flex-end;
+  background-color: var(--aqua-haze);
+  border-radius: 9px;
+  display: flex;
+  height: 56px;
+  margin-right: 16.0px;
+  margin-top: 22px;
+  min-width: 335px;
+  padding: 8.5px 16px;
+}
+
+.desk-number {
+  letter-spacing: 0;
+  line-height: 16px;
+  min-height: 25px;
+  min-width: 109px;
+  white-space: nowrap;
+}
+

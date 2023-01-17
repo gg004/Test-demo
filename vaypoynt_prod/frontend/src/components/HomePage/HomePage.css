@@ -1,0 +1,189 @@
+.homepage {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 812px;
+  overflow: hidden;
+  position: relative;
+  width: 375px;
+}
+
+.overlap-group3 {
+  align-self: flex-start;
+  height: 350px;
+  /* margin-top: 0; */
+  margin-top: -141px;
+  position: relative;
+  width: 483px;
+}
+
+.rectangle-7 {
+  background-color: var(--blueberry);
+  border-radius: 0px 0px 40px 0px;
+  /* border: 2px solid red; */
+  box-shadow: 0px -7px 8px #0000000f;
+  height: 147px;
+  max-height: 147px;
+  min-height: 147px;
+  left: 0;
+  position: absolute;
+  top: 141px;
+  width: 375px;
+  overflow: hidden;
+
+}
+
+.ellipse-container-5 {
+  border-radius: 127.5px;
+  height: 255px;
+  left: 228px;
+  position: absolute;
+  top: 0;
+  width: 255px;
+}
+
+.ellipse-4-5 {
+  border: 20px solid;
+  border-color: var(--white-2);
+  border-radius: 94px;
+  height: 188px;
+  left: 45px;
+  position: absolute;
+  top: 26px;
+  width: 188px;
+}
+
+.ellipse-5-5 {
+  border: 20px solid;
+  border-color: var(--white-2);
+  border-radius: 127.5px;
+  height: 255px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 255px;
+}
+
+.ellipse-container-6 {
+  border-radius: 26px;
+  height: 52px;
+  left: 12px;
+  position: absolute;
+  top: 229px;
+  width: 52px;
+}
+
+.ellipse-4-6 {
+  border: 6px solid;
+  border-color: var(--white-3);
+  border-radius: 16.5px/16px;
+  height: 32px;
+  left: 7px;
+  position: absolute;
+  top: 13px;
+  width: 33px;
+}
+
+.ellipse-5-6 {
+  border: 6px solid;
+  border-color: var(--white-3);
+  border-radius: 26px;
+  height: 52px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 52px;
+}
+
+.ellipse-container-7 {
+  border-radius: 35px;
+  height: 70px;
+  left: 57px;
+  position: absolute;
+  top: 106px;
+  width: 70px;
+}
+
+.ellipse-4-7 {
+  border: 8px solid;
+  border-color: var(--white-2);
+  border-radius: 22.5px/22px;
+  height: 44px;
+  left: 9px;
+  position: absolute;
+  top: 9px;
+  width: 45px;
+}
+
+.ellipse-5-7 {
+  border: 8px solid;
+  border-color: var(--white-2);
+  border-radius: 35px;
+  height: 70px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 70px;
+}
+
+.bannon-morrissy-rxi-av5-lc-ww-unsplash {
+  border-radius: 44.5px;
+  height: 110px;
+  left: 132px;
+  object-fit: cover;
+  position: absolute;
+  top: 240px;
+  width: 110px;
+}
+
+.icon-feather-menu {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  justify-content: center;
+  left: 29px;
+  min-height: 18px;
+  position: absolute;
+  top: 202px;
+  width: 27px;
+}
+
+.path-2-1 {
+  height: 3px;
+  margin-left: -1.5px;
+  object-fit: cover;
+  width: 30px;
+}
+
+.overlap-group4-1 {
+  border-radius: 9px;
+  height: 56px;
+  margin-top: 18px;
+  position: relative;
+  width: 335px;
+}
+
+.icon-awesome-check {
+  height: 11px;
+  left: 303px;
+  object-fit: cover;
+  position: absolute;
+  top: 24px;
+  width: 15px;
+}
+
+.path-18 {
+  align-self: flex-start;
+  height: 48px;
+  margin-left: 79px;
+  margin-top: 12px;
+  object-fit: cover;
+  width: 48px;
+}
+
+/* .mid-section {
+  border: 2px solid blue;
+} */
